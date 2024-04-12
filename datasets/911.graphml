@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="ties" attr.type="int"/>
+<graph edgedefault="undirected"><node id="Madjid_Sahoune">
+  <data key="d0">5</data>
+</node>
+<node id="Essid_Sami_Ben_Khemais">
+  <data key="d0">5</data>
+</node>
+<node id="Seifallah_ben_Hassine">
+  <data key="d0">5</data>
+</node>
+<node id="Tarek_Maaroufi">
+  <data key="d0">5</data>
+</node>
+<node id="Fahid_al_Shakri">
+  <data key="d0">5</data>
+</node>
+<node id="Samir_Kishk">
+  <data key="d0">5</data>
+</node>
+<node id="Essoussi_Laaroussi">
+  <data key="d0">5</data>
+</node>
+<node id="Mehdi_Khammoun">
+  <data key="d0">5</data>
+</node>
+<node id="Mohamed_Bensakhria">
+  <data key="d0">5</data>
+</node>
+<node id="Haydar_Abu_Doha">
+  <data key="d0">5</data>
+</node>
+<node id="Lased_Ben_Heni">
+  <data key="d0">5</data>
+</node>
+<node id="Imad_Eddin_Barakat_Yarkas">
+  <data key="d0">5</data>
+</node>
+<node id="Abu_Qatada">
+  <data key="d0">5</data>
+</node>
+<node id="Ahmed_Ressam">
+  <data key="d0">5</data>
+</node>
+<node id="Abu_Walid">
+  <data key="d0">5</data>
+</node>
+<node id="Djamal_Beghal">
+  <data key="d0">5</data>
+</node>
+<node id="Kamel_Daoudi">
+  <data key="d0">5</data>
+</node>
+<node id="Mohammed_Belfas">
+  <data key="d0">5</data>
+</node>
+<node id="Agus_Budiman">
+  <data key="d0">5</data>
+</node>
+<node id="Ramzi_Bin_al-Shibh">
+  <data key="d0">5</data>
+</node>
+<node id="Mamduh_Mahmud_Salim">
+  <data key="d0">5</data>
+</node>
+<node id="Mamoun_Darkazanli">
+  <data key="d0">5</data>
+</node>
+<node id="Nabil_Almarabh">
+  <data key="d0">5</data>
+</node>
+<node id="Raed_Hijazi">
+  <data key="d0">5</data>
+</node>
+<node id="Zacarias_Moussaoui">
+  <data key="d0">5</data>
+</node>
+<node id="David_Courtaillier">
+  <data key="d0">5</data>
+</node>
+<node id="Jerome_Courtaillier">
+  <data key="d0">5</data>
+</node>
+<node id="Mohand_Alshehri*">
+  <data key="d0">4</data>
+</node>
+<node id="Hamza_Alghamdi">
+  <data key="d0">4</data>
+</node>
+<node id="Fayez_Ahmed">
+  <data key="d0">4</data>
+</node>
+<node id="Nabil_al-Marabh">
+  <data key="d0">5</data>
+</node>
+<node id="Saeed_Alghamdi*">
+  <data key="d0">3</data>
+</node>
+<node id="Satam_Suqami">
+  <data key="d0">1</data>
+</node>
+<node id="Ahmed_Alghamdi">
+  <data key="d0">4</data>
+</node>
+<node id="Mustafa_Ahmed_al-Hisawi">
+  <data key="d0">5</data>
+</node>
+<node id="Waleed_Alshehri">
+  <data key="d0">1</data>
+</node>
+<node id="Marwan_Al-Shehhi">
+  <data key="d0">4</data>
+</node>
+<node id="Abdul_Aziz_Al-Omari*">
+  <data key="d0">1</data>
+</node>
+<node id="Wail_Alshehri">
+  <data key="d0">1</data>
+</node>
+<node id="Mohamed_Atta">
+  <data key="d0">1</data>
+</node>
+<node id="Abdelghani_Mzoudi">
+  <data key="d0">5</data>
+</node>
+<node id="Mounir_El_Motassadeq">
+  <data key="d0">5</data>
+</node>
+<node id="Said_Bahaji">
+  <data key="d0">5</data>
+</node>
+<node id="Ziad_Jarrah">
+  <data key="d0">3</data>
+</node>
+<node id="Ahmed_Khalil_Ibrahim_Samir_Al-Ani">
+  <data key="d0">5</data>
+</node>
+<node id="Zakariya_Essabar">
+  <data key="d0">5</data>
+</node>
+<node id="Ahmed_Al_Haznawi">
+  <data key="d0">3</data>
+</node>
+<node id="Osama_Awadallah">
+  <data key="d0">5</data>
+</node>
+<node id="Abdussattar_Shaikh">
+  <data key="d0">5</data>
+</node>
+<node id="Khalid_Al-Mihdhar">
+  <data key="d0">2</data>
+</node>
+<node id="Nawaf_Alhazmi">
+  <data key="d0">2</data>
+</node>
+<node id="Mohamed_Abdi">
+  <data key="d0">5</data>
+</node>
+<node id="Ahmed_Alnami">
+  <data key="d0">3</data>
+</node>
+<node id="Rayed_Mohammed_Abdullah">
+  <data key="d0">5</data>
+</node>
+<node id="Bandar_Alhazmi">
+  <data key="d0">5</data>
+</node>
+<node id="Faisal_Al_Salmi">
+  <data key="d0">5</data>
+</node>
+<node id="Lotfi_Raissi">
+  <data key="d0">5</data>
+</node>
+<node id="Hani_Hanjour">
+  <data key="d0">2</data>
+</node>
+<node id="Salem_Alhazmi*">
+  <data key="d0">2</data>
+</node>
+<node id="Majed_Moqed">
+  <data key="d0">2</data>
+</node>
+<edge source="Madjid_Sahoune" target="Essid_Sami_Ben_Khemais"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Seifallah_ben_Hassine"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Fahid_al_Shakri"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Samir_Kishk"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Essoussi_Laaroussi"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Mehdi_Khammoun"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Lased_Ben_Heni"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Tarek_Maaroufi"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Mohamed_Bensakhria"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Haydar_Abu_Doha"/>
+<edge source="Essid_Sami_Ben_Khemais" target="Mohamed_Atta"/>
+<edge source="Seifallah_ben_Hassine" target="Tarek_Maaroufi"/>
+<edge source="Tarek_Maaroufi" target="Essoussi_Laaroussi"/>
+<edge source="Tarek_Maaroufi" target="Imad_Eddin_Barakat_Yarkas"/>
+<edge source="Tarek_Maaroufi" target="Abu_Qatada"/>
+<edge source="Tarek_Maaroufi" target="Mohamed_Bensakhria"/>
+<edge source="Mehdi_Khammoun" target="Mohamed_Bensakhria"/>
+<edge source="Mehdi_Khammoun" target="Haydar_Abu_Doha"/>
+<edge source="Mohamed_Bensakhria" target="Lased_Ben_Heni"/>
+<edge source="Haydar_Abu_Doha" target="Ahmed_Ressam"/>
+<edge source="Imad_Eddin_Barakat_Yarkas" target="Abu_Qatada"/>
+<edge source="Imad_Eddin_Barakat_Yarkas" target="Ramzi_Bin_al-Shibh"/>
+<edge source="Imad_Eddin_Barakat_Yarkas" target="Mohamed_Atta"/>
+<edge source="Abu_Qatada" target="Abu_Walid"/>
+<edge source="Abu_Qatada" target="Djamal_Beghal"/>
+<edge source="Abu_Qatada" target="Zacarias_Moussaoui"/>
+<edge source="Ahmed_Ressam" target="Zacarias_Moussaoui"/>
+<edge source="Abu_Walid" target="Djamal_Beghal"/>
+<edge source="Abu_Walid" target="Kamel_Daoudi"/>
+<edge source="Djamal_Beghal" target="Jerome_Courtaillier"/>
+<edge source="Djamal_Beghal" target="Kamel_Daoudi"/>
+<edge source="Djamal_Beghal" target="Zacarias_Moussaoui"/>
+<edge source="Kamel_Daoudi" target="Jerome_Courtaillier"/>
+<edge source="Kamel_Daoudi" target="Zacarias_Moussaoui"/>
+<edge source="Mohammed_Belfas" target="Agus_Budiman"/>
+<edge source="Mohammed_Belfas" target="Ramzi_Bin_al-Shibh"/>
+<edge source="Agus_Budiman" target="Ramzi_Bin_al-Shibh"/>
+<edge source="Agus_Budiman" target="Ziad_Jarrah"/>
+<edge source="Agus_Budiman" target="Marwan_Al-Shehhi"/>
+<edge source="Agus_Budiman" target="Mohamed_Atta"/>
+<edge source="Ramzi_Bin_al-Shibh" target="Mounir_El_Motassadeq"/>
+<edge source="Ramzi_Bin_al-Shibh" target="Zakariya_Essabar"/>
+<edge source="Ramzi_Bin_al-Shibh" target="Said_Bahaji"/>
+<edge source="Ramzi_Bin_al-Shibh" target="Zacarias_Moussaoui"/>
+<edge source="Ramzi_Bin_al-Shibh" target="Ziad_Jarrah"/>
+<edge source="Ramzi_Bin_al-Shibh" target="Marwan_Al-Shehhi"/>
+<edge source="Ramzi_Bin_al-Shibh" target="Mohamed_Atta"/>
+<edge source="Mamduh_Mahmud_Salim" target="Mamoun_Darkazanli"/>
+<edge source="Mamoun_Darkazanli" target="Said_Bahaji"/>
+<edge source="Mamoun_Darkazanli" target="Marwan_Al-Shehhi"/>
+<edge source="Mamoun_Darkazanli" target="Mohamed_Atta"/>
+<edge source="Nabil_Almarabh" target="Raed_Hijazi"/>
+<edge source="Raed_Hijazi" target="Nabil_al-Marabh"/>
+<edge source="Raed_Hijazi" target="Saeed_Alghamdi*"/>
+<edge source="Raed_Hijazi" target="Satam_Suqami"/>
+<edge source="Zacarias_Moussaoui" target="David_Courtaillier"/>
+<edge source="Zacarias_Moussaoui" target="Jerome_Courtaillier"/>
+<edge source="Zacarias_Moussaoui" target="Mohamed_Atta"/>
+<edge source="David_Courtaillier" target="Jerome_Courtaillier"/>
+<edge source="Mohand_Alshehri*" target="Hamza_Alghamdi"/>
+<edge source="Mohand_Alshehri*" target="Fayez_Ahmed"/>
+<edge source="Hamza_Alghamdi" target="Ahmed_Al_Haznawi"/>
+<edge source="Hamza_Alghamdi" target="Saeed_Alghamdi*"/>
+<edge source="Hamza_Alghamdi" target="Ahmed_Alnami"/>
+<edge source="Hamza_Alghamdi" target="Ahmed_Alghamdi"/>
+<edge source="Hamza_Alghamdi" target="Marwan_Al-Shehhi"/>
+<edge source="Hamza_Alghamdi" target="Nawaf_Alhazmi"/>
+<edge source="Fayez_Ahmed" target="Waleed_Alshehri"/>
+<edge source="Fayez_Ahmed" target="Mustafa_Ahmed_al-Hisawi"/>
+<edge source="Fayez_Ahmed" target="Marwan_Al-Shehhi"/>
+<edge source="Fayez_Ahmed" target="Abdul_Aziz_Al-Omari*"/>
+<edge source="Fayez_Ahmed" target="Satam_Suqami"/>
+<edge source="Fayez_Ahmed" target="Wail_Alshehri"/>
+<edge source="Fayez_Ahmed" target="Mohamed_Atta"/>
+<edge source="Nabil_al-Marabh" target="Saeed_Alghamdi*"/>
+<edge source="Nabil_al-Marabh" target="Ahmed_Alghamdi"/>
+<edge source="Nabil_al-Marabh" target="Satam_Suqami"/>
+<edge source="Saeed_Alghamdi*" target="Ahmed_Al_Haznawi"/>
+<edge source="Saeed_Alghamdi*" target="Ahmed_Alnami"/>
+<edge source="Saeed_Alghamdi*" target="Nawaf_Alhazmi"/>
+<edge source="Satam_Suqami" target="Waleed_Alshehri"/>
+<edge source="Satam_Suqami" target="Marwan_Al-Shehhi"/>
+<edge source="Satam_Suqami" target="Abdul_Aziz_Al-Omari*"/>
+<edge source="Satam_Suqami" target="Wail_Alshehri"/>
+<edge source="Satam_Suqami" target="Mohamed_Atta"/>
+<edge source="Ahmed_Alghamdi" target="Abdul_Aziz_Al-Omari*"/>
+<edge source="Ahmed_Alghamdi" target="Salem_Alhazmi*"/>
+<edge source="Ahmed_Alghamdi" target="Hani_Hanjour"/>
+<edge source="Mustafa_Ahmed_al-Hisawi" target="Waleed_Alshehri"/>
+<edge source="Mustafa_Ahmed_al-Hisawi" target="Marwan_Al-Shehhi"/>
+<edge source="Mustafa_Ahmed_al-Hisawi" target="Mohamed_Atta"/>
+<edge source="Waleed_Alshehri" target="Marwan_Al-Shehhi"/>
+<edge source="Waleed_Alshehri" target="Abdul_Aziz_Al-Omari*"/>
+<edge source="Waleed_Alshehri" target="Wail_Alshehri"/>
+<edge source="Marwan_Al-Shehhi" target="Mounir_El_Motassadeq"/>
+<edge source="Marwan_Al-Shehhi" target="Zakariya_Essabar"/>
+<edge source="Marwan_Al-Shehhi" target="Said_Bahaji"/>
+<edge source="Marwan_Al-Shehhi" target="Wail_Alshehri"/>
+<edge source="Marwan_Al-Shehhi" target="Lotfi_Raissi"/>
+<edge source="Marwan_Al-Shehhi" target="Ziad_Jarrah"/>
+<edge source="Marwan_Al-Shehhi" target="Abdul_Aziz_Al-Omari*"/>
+<edge source="Marwan_Al-Shehhi" target="Mohamed_Atta"/>
+<edge source="Marwan_Al-Shehhi" target="Salem_Alhazmi*"/>
+<edge source="Marwan_Al-Shehhi" target="Hani_Hanjour"/>
+<edge source="Abdul_Aziz_Al-Omari*" target="Wail_Alshehri"/>
+<edge source="Abdul_Aziz_Al-Omari*" target="Mohamed_Atta"/>
+<edge source="Abdul_Aziz_Al-Omari*" target="Salem_Alhazmi*"/>
+<edge source="Abdul_Aziz_Al-Omari*" target="Hani_Hanjour"/>
+<edge source="Wail_Alshehri" target="Mohamed_Atta"/>
+<edge source="Mohamed_Atta" target="Abdelghani_Mzoudi"/>
+<edge source="Mohamed_Atta" target="Mounir_El_Motassadeq"/>
+<edge source="Mohamed_Atta" target="Ahmed_Khalil_Ibrahim_Samir_Al-Ani"/>
+<edge source="Mohamed_Atta" target="Zakariya_Essabar"/>
+<edge source="Mohamed_Atta" target="Said_Bahaji"/>
+<edge source="Mohamed_Atta" target="Ahmed_Al_Haznawi"/>
+<edge source="Mohamed_Atta" target="Lotfi_Raissi"/>
+<edge source="Mohamed_Atta" target="Ziad_Jarrah"/>
+<edge source="Mohamed_Atta" target="Nawaf_Alhazmi"/>
+<edge source="Mohamed_Atta" target="Hani_Hanjour"/>
+<edge source="Mounir_El_Motassadeq" target="Said_Bahaji"/>
+<edge source="Said_Bahaji" target="Zakariya_Essabar"/>
+<edge source="Said_Bahaji" target="Ziad_Jarrah"/>
+<edge source="Ziad_Jarrah" target="Zakariya_Essabar"/>
+<edge source="Ziad_Jarrah" target="Ahmed_Al_Haznawi"/>
+<edge source="Ziad_Jarrah" target="Lotfi_Raissi"/>
+<edge source="Ziad_Jarrah" target="Salem_Alhazmi*"/>
+<edge source="Ziad_Jarrah" target="Hani_Hanjour"/>
+<edge source="Osama_Awadallah" target="Abdussattar_Shaikh"/>
+<edge source="Osama_Awadallah" target="Khalid_Al-Mihdhar"/>
+<edge source="Osama_Awadallah" target="Nawaf_Alhazmi"/>
+<edge source="Abdussattar_Shaikh" target="Khalid_Al-Mihdhar"/>
+<edge source="Abdussattar_Shaikh" target="Nawaf_Alhazmi"/>
+<edge source="Khalid_Al-Mihdhar" target="Salem_Alhazmi*"/>
+<edge source="Khalid_Al-Mihdhar" target="Nawaf_Alhazmi"/>
+<edge source="Khalid_Al-Mihdhar" target="Majed_Moqed"/>
+<edge source="Khalid_Al-Mihdhar" target="Hani_Hanjour"/>
+<edge source="Nawaf_Alhazmi" target="Mohamed_Abdi"/>
+<edge source="Nawaf_Alhazmi" target="Ahmed_Alnami"/>
+<edge source="Nawaf_Alhazmi" target="Salem_Alhazmi*"/>
+<edge source="Nawaf_Alhazmi" target="Majed_Moqed"/>
+<edge source="Nawaf_Alhazmi" target="Hani_Hanjour"/>
+<edge source="Rayed_Mohammed_Abdullah" target="Bandar_Alhazmi"/>
+<edge source="Rayed_Mohammed_Abdullah" target="Faisal_Al_Salmi"/>
+<edge source="Rayed_Mohammed_Abdullah" target="Lotfi_Raissi"/>
+<edge source="Rayed_Mohammed_Abdullah" target="Hani_Hanjour"/>
+<edge source="Bandar_Alhazmi" target="Hani_Hanjour"/>
+<edge source="Faisal_Al_Salmi" target="Hani_Hanjour"/>
+<edge source="Lotfi_Raissi" target="Hani_Hanjour"/>
+<edge source="Hani_Hanjour" target="Salem_Alhazmi*"/>
+<edge source="Hani_Hanjour" target="Majed_Moqed"/>
+<edge source="Salem_Alhazmi*" target="Majed_Moqed"/>
+</graph></graphml>

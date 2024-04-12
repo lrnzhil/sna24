@@ -1,0 +1,2617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d0" for="node" attr.name="title" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Addam-Marbrand">
+  <data key="d0">Addam Marbrand</data>
+</node>
+<node id="Jaime-Lannister">
+  <data key="d0">Jaime Lannister</data>
+</node>
+<node id="Tywin-Lannister">
+  <data key="d0">Tywin Lannister</data>
+</node>
+<node id="Aegon-I-Targaryen">
+  <data key="d0">Aegon I Targaryen</data>
+</node>
+<node id="Daenerys-Targaryen">
+  <data key="d0">Daenerys Targaryen</data>
+</node>
+<node id="Eddard-Stark">
+  <data key="d0">Eddard Stark</data>
+</node>
+<node id="Aemon-Targaryen-(Maester-Aemon)">
+  <data key="d0">Aemon Targaryen (Maester Aemon)</data>
+</node>
+<node id="Alliser-Thorne">
+  <data key="d0">Alliser Thorne</data>
+</node>
+<node id="Bowen-Marsh">
+  <data key="d0">Bowen Marsh</data>
+</node>
+<node id="Chett">
+  <data key="d0">Chett</data>
+</node>
+<node id="Clydas">
+  <data key="d0">Clydas</data>
+</node>
+<node id="Jeor-Mormont">
+  <data key="d0">Jeor Mormont</data>
+</node>
+<node id="Jon-Snow">
+  <data key="d0">Jon Snow</data>
+</node>
+<node id="Samwell-Tarly">
+  <data key="d0">Samwell Tarly</data>
+</node>
+<node id="Aerys-II-Targaryen">
+  <data key="d0">Aerys II Targaryen</data>
+</node>
+<node id="Brandon-Stark">
+  <data key="d0">Brandon Stark</data>
+</node>
+<node id="Gerold-Hightower">
+  <data key="d0">Gerold Hightower</data>
+</node>
+<node id="Jon-Arryn">
+  <data key="d0">Jon Arryn</data>
+</node>
+<node id="Robert-Baratheon">
+  <data key="d0">Robert Baratheon</data>
+</node>
+<node id="Aggo">
+  <data key="d0">Aggo</data>
+</node>
+<node id="Drogo">
+  <data key="d0">Drogo</data>
+</node>
+<node id="Jhogo">
+  <data key="d0">Jhogo</data>
+</node>
+<node id="Jorah-Mormont">
+  <data key="d0">Jorah Mormont</data>
+</node>
+<node id="Quaro">
+  <data key="d0">Quaro</data>
+</node>
+<node id="Rakharo">
+  <data key="d0">Rakharo</data>
+</node>
+<node id="Albett">
+  <data key="d0">Albett</data>
+</node>
+<node id="Halder">
+  <data key="d0">Halder</data>
+</node>
+<node id="Rast">
+  <data key="d0">Rast</data>
+</node>
+<node id="Grenn">
+  <data key="d0">Grenn</data>
+</node>
+<node id="Pypar">
+  <data key="d0">Pypar</data>
+</node>
+<node id="Tyrion-Lannister">
+  <data key="d0">Tyrion Lannister</data>
+</node>
+<node id="Alyn">
+  <data key="d0">Alyn</data>
+</node>
+<node id="Harwin">
+  <data key="d0">Harwin</data>
+</node>
+<node id="Jory-Cassel">
+  <data key="d0">Jory Cassel</data>
+</node>
+<node id="Tomard">
+  <data key="d0">Tomard</data>
+</node>
+<node id="Arthur-Dayne">
+  <data key="d0">Arthur Dayne</data>
+</node>
+<node id="Arya-Stark">
+  <data key="d0">Arya Stark</data>
+</node>
+<node id="Benjen-Stark">
+  <data key="d0">Benjen Stark</data>
+</node>
+<node id="Bran-Stark">
+  <data key="d0">Bran Stark</data>
+</node>
+<node id="Catelyn-Stark">
+  <data key="d0">Catelyn Stark</data>
+</node>
+<node id="Cersei-Lannister">
+  <data key="d0">Cersei Lannister</data>
+</node>
+<node id="Desmond">
+  <data key="d0">Desmond</data>
+</node>
+<node id="Ilyn-Payne">
+  <data key="d0">Ilyn Payne</data>
+</node>
+<node id="Jeyne-Poole">
+  <data key="d0">Jeyne Poole</data>
+</node>
+<node id="Joffrey-Baratheon">
+  <data key="d0">Joffrey Baratheon</data>
+</node>
+<node id="Meryn-Trant">
+  <data key="d0">Meryn Trant</data>
+</node>
+<node id="Mordane">
+  <data key="d0">Mordane</data>
+</node>
+<node id="Mycah">
+  <data key="d0">Mycah</data>
+</node>
+<node id="Myrcella-Baratheon">
+  <data key="d0">Myrcella Baratheon</data>
+</node>
+<node id="Petyr-Baelish">
+  <data key="d0">Petyr Baelish</data>
+</node>
+<node id="Rickon-Stark">
+  <data key="d0">Rickon Stark</data>
+</node>
+<node id="Robb-Stark">
+  <data key="d0">Robb Stark</data>
+</node>
+<node id="Rodrik-Cassel">
+  <data key="d0">Rodrik Cassel</data>
+</node>
+<node id="Sandor-Clegane">
+  <data key="d0">Sandor Clegane</data>
+</node>
+<node id="Sansa-Stark">
+  <data key="d0">Sansa Stark</data>
+</node>
+<node id="Syrio-Forel">
+  <data key="d0">Syrio Forel</data>
+</node>
+<node id="Tommen-Baratheon">
+  <data key="d0">Tommen Baratheon</data>
+</node>
+<node id="Vayon-Poole">
+  <data key="d0">Vayon Poole</data>
+</node>
+<node id="Yoren">
+  <data key="d0">Yoren</data>
+</node>
+<node id="Arys-Oakheart">
+  <data key="d0">Arys Oakheart</data>
+</node>
+<node id="Balon-Greyjoy">
+  <data key="d0">Balon Greyjoy</data>
+</node>
+<node id="Balon-Swann">
+  <data key="d0">Balon Swann</data>
+</node>
+<node id="Renly-Baratheon">
+  <data key="d0">Renly Baratheon</data>
+</node>
+<node id="Barristan-Selmy">
+  <data key="d0">Barristan Selmy</data>
+</node>
+<node id="Boros-Blount">
+  <data key="d0">Boros Blount</data>
+</node>
+<node id="Pycelle">
+  <data key="d0">Pycelle</data>
+</node>
+<node id="Varys">
+  <data key="d0">Varys</data>
+</node>
+<node id="Jaremy-Rykker">
+  <data key="d0">Jaremy Rykker</data>
+</node>
+<node id="Luwin">
+  <data key="d0">Luwin</data>
+</node>
+<node id="Mance-Rayder">
+  <data key="d0">Mance Rayder</data>
+</node>
+<node id="Theon-Greyjoy">
+  <data key="d0">Theon Greyjoy</data>
+</node>
+<node id="Waymar-Royce">
+  <data key="d0">Waymar Royce</data>
+</node>
+<node id="Beric-Dondarrion">
+  <data key="d0">Beric Dondarrion</data>
+</node>
+<node id="Gregor-Clegane">
+  <data key="d0">Gregor Clegane</data>
+</node>
+<node id="Loras-Tyrell">
+  <data key="d0">Loras Tyrell</data>
+</node>
+<node id="Thoros-of-Myr">
+  <data key="d0">Thoros of Myr</data>
+</node>
+<node id="Hali">
+  <data key="d0">Hali</data>
+</node>
+<node id="Hallis-Mollen">
+  <data key="d0">Hallis Mollen</data>
+</node>
+<node id="Hodor">
+  <data key="d0">Hodor</data>
+</node>
+<node id="Hullen">
+  <data key="d0">Hullen</data>
+</node>
+<node id="Joseth">
+  <data key="d0">Joseth</data>
+</node>
+<node id="Nan">
+  <data key="d0">Nan</data>
+</node>
+<node id="Osha">
+  <data key="d0">Osha</data>
+</node>
+<node id="Rickard-Karstark">
+  <data key="d0">Rickard Karstark</data>
+</node>
+<node id="Rickard-Stark">
+  <data key="d0">Rickard Stark</data>
+</node>
+<node id="Stiv">
+  <data key="d0">Stiv</data>
+</node>
+<node id="Lyanna-Stark">
+  <data key="d0">Lyanna Stark</data>
+</node>
+<node id="Bronn">
+  <data key="d0">Bronn</data>
+</node>
+<node id="Chiggen">
+  <data key="d0">Chiggen</data>
+</node>
+<node id="Marillion">
+  <data key="d0">Marillion</data>
+</node>
+<node id="Shae">
+  <data key="d0">Shae</data>
+</node>
+<node id="Shagga">
+  <data key="d0">Shagga</data>
+</node>
+<node id="Vardis-Egen">
+  <data key="d0">Vardis Egen</data>
+</node>
+<node id="Willis-Wode">
+  <data key="d0">Willis Wode</data>
+</node>
+<node id="Brynden-Tully">
+  <data key="d0">Brynden Tully</data>
+</node>
+<node id="Edmure-Tully">
+  <data key="d0">Edmure Tully</data>
+</node>
+<node id="Hoster-Tully">
+  <data key="d0">Hoster Tully</data>
+</node>
+<node id="Lysa-Arryn">
+  <data key="d0">Lysa Arryn</data>
+</node>
+<node id="Nestor-Royce">
+  <data key="d0">Nestor Royce</data>
+</node>
+<node id="Walder-Frey">
+  <data key="d0">Walder Frey</data>
+</node>
+<node id="Colemon">
+  <data key="d0">Colemon</data>
+</node>
+<node id="Donnel-Waynwood">
+  <data key="d0">Donnel Waynwood</data>
+</node>
+<node id="Eon-Hunter">
+  <data key="d0">Eon Hunter</data>
+</node>
+<node id="Jon-Umber-(Greatjon)">
+  <data key="d0">Jon Umber (Greatjon)</data>
+</node>
+<node id="Masha-Heddle">
+  <data key="d0">Masha Heddle</data>
+</node>
+<node id="Moreo-Tumitis">
+  <data key="d0">Moreo Tumitis</data>
+</node>
+<node id="Mya-Stone">
+  <data key="d0">Mya Stone</data>
+</node>
+<node id="Mychel-Redfort">
+  <data key="d0">Mychel Redfort</data>
+</node>
+<node id="Robert-Arryn">
+  <data key="d0">Robert Arryn</data>
+</node>
+<node id="Stevron-Frey">
+  <data key="d0">Stevron Frey</data>
+</node>
+<node id="Tytos-Blackwood">
+  <data key="d0">Tytos Blackwood</data>
+</node>
+<node id="Wendel-Manderly">
+  <data key="d0">Wendel Manderly</data>
+</node>
+<node id="Cayn">
+  <data key="d0">Cayn</data>
+</node>
+<node id="Janos-Slynt">
+  <data key="d0">Janos Slynt</data>
+</node>
+<node id="Stannis-Baratheon">
+  <data key="d0">Stannis Baratheon</data>
+</node>
+<node id="Chella">
+  <data key="d0">Chella</data>
+</node>
+<node id="Clement-Piper">
+  <data key="d0">Clement Piper</data>
+</node>
+<node id="Karyl-Vance">
+  <data key="d0">Karyl Vance</data>
+</node>
+<node id="Cohollo">
+  <data key="d0">Cohollo</data>
+</node>
+<node id="Haggo">
+  <data key="d0">Haggo</data>
+</node>
+<node id="Qotho">
+  <data key="d0">Qotho</data>
+</node>
+<node id="Conn">
+  <data key="d0">Conn</data>
+</node>
+<node id="Coratt">
+  <data key="d0">Coratt</data>
+</node>
+<node id="Doreah">
+  <data key="d0">Doreah</data>
+</node>
+<node id="Eroeh">
+  <data key="d0">Eroeh</data>
+</node>
+<node id="Illyrio-Mopatis">
+  <data key="d0">Illyrio Mopatis</data>
+</node>
+<node id="Irri">
+  <data key="d0">Irri</data>
+</node>
+<node id="Jhiqui">
+  <data key="d0">Jhiqui</data>
+</node>
+<node id="Mirri-Maz-Duur">
+  <data key="d0">Mirri Maz Duur</data>
+</node>
+<node id="Rhaegar-Targaryen">
+  <data key="d0">Rhaegar Targaryen</data>
+</node>
+<node id="Viserys-Targaryen">
+  <data key="d0">Viserys Targaryen</data>
+</node>
+<node id="Danwell-Frey">
+  <data key="d0">Danwell Frey</data>
+</node>
+<node id="Hosteen-Frey">
+  <data key="d0">Hosteen Frey</data>
+</node>
+<node id="Jared-Frey">
+  <data key="d0">Jared Frey</data>
+</node>
+<node id="Dareon">
+  <data key="d0">Dareon</data>
+</node>
+<node id="Daryn-Hornwood">
+  <data key="d0">Daryn Hornwood</data>
+</node>
+<node id="Torrhen-Karstark">
+  <data key="d0">Torrhen Karstark</data>
+</node>
+<node id="Dolf">
+  <data key="d0">Dolf</data>
+</node>
+<node id="Donal-Noye">
+  <data key="d0">Donal Noye</data>
+</node>
+<node id="Jommo">
+  <data key="d0">Jommo</data>
+</node>
+<node id="Ogo">
+  <data key="d0">Ogo</data>
+</node>
+<node id="Rhaego">
+  <data key="d0">Rhaego</data>
+</node>
+<node id="Dywen">
+  <data key="d0">Dywen</data>
+</node>
+<node id="Galbart-Glover">
+  <data key="d0">Galbart Glover</data>
+</node>
+<node id="Gendry">
+  <data key="d0">Gendry</data>
+</node>
+<node id="High-Septon-(fat_one)">
+  <data key="d0">High Septon (fat one)</data>
+</node>
+<node id="Howland-Reed">
+  <data key="d0">Howland Reed</data>
+</node>
+<node id="Jacks">
+  <data key="d0">Jacks</data>
+</node>
+<node id="Joss">
+  <data key="d0">Joss</data>
+</node>
+<node id="Marq-Piper">
+  <data key="d0">Marq Piper</data>
+</node>
+<node id="Porther">
+  <data key="d0">Porther</data>
+</node>
+<node id="Raymun-Darry">
+  <data key="d0">Raymun Darry</data>
+</node>
+<node id="Tobho-Mott">
+  <data key="d0">Tobho Mott</data>
+</node>
+<node id="Tregar">
+  <data key="d0">Tregar</data>
+</node>
+<node id="Varly">
+  <data key="d0">Varly</data>
+</node>
+<node id="Wyl-(guard)">
+  <data key="d0">Wyl (guard)</data>
+</node>
+<node id="Wylla">
+  <data key="d0">Wylla</data>
+</node>
+<node id="Fogo">
+  <data key="d0">Fogo</data>
+</node>
+<node id="Roose-Bolton">
+  <data key="d0">Roose Bolton</data>
+</node>
+<node id="Gared">
+  <data key="d0">Gared</data>
+</node>
+<node id="Will-(prologue)">
+  <data key="d0">Will (prologue)</data>
+</node>
+<node id="Oswell-Whent">
+  <data key="d0">Oswell Whent</data>
+</node>
+<node id="Todder">
+  <data key="d0">Todder</data>
+</node>
+<node id="Gunthor-son-of-Gurn">
+  <data key="d0">Gunthor son of Gurn</data>
+</node>
+<node id="Harys-Swyft">
+  <data key="d0">Harys Swyft</data>
+</node>
+<node id="Heward">
+  <data key="d0">Heward</data>
+</node>
+<node id="Hobb">
+  <data key="d0">Hobb</data>
+</node>
+<node id="Hugh">
+  <data key="d0">Hugh</data>
+</node>
+<node id="Jafer-Flowers">
+  <data key="d0">Jafer Flowers</data>
+</node>
+<node id="Kevan-Lannister">
+  <data key="d0">Kevan Lannister</data>
+</node>
+<node id="Matthar">
+  <data key="d0">Matthar</data>
+</node>
+<node id="Othor">
+  <data key="d0">Othor</data>
+</node>
+<node id="Maege-Mormont">
+  <data key="d0">Maege Mormont</data>
+</node>
+<node id="Jonos-Bracken">
+  <data key="d0">Jonos Bracken</data>
+</node>
+<node id="Jyck">
+  <data key="d0">Jyck</data>
+</node>
+<node id="Morrec">
+  <data key="d0">Morrec</data>
+</node>
+<node id="Kurleket">
+  <data key="d0">Kurleket</data>
+</node>
+<node id="Lancel-Lannister">
+  <data key="d0">Lancel Lannister</data>
+</node>
+<node id="Leo-Lefford">
+  <data key="d0">Leo Lefford</data>
+</node>
+<node id="Mace-Tyrell">
+  <data key="d0">Mace Tyrell</data>
+</node>
+<node id="Lyn-Corbray">
+  <data key="d0">Lyn Corbray</data>
+</node>
+<node id="Paxter-Redwyne">
+  <data key="d0">Paxter Redwyne</data>
+</node>
+<node id="Maegor-I-Targaryen">
+  <data key="d0">Maegor I Targaryen</data>
+</node>
+<node id="Mord">
+  <data key="d0">Mord</data>
+</node>
+<node id="Randyll-Tarly">
+  <data key="d0">Randyll Tarly</data>
+</node>
+<node id="Timett">
+  <data key="d0">Timett</data>
+</node>
+<node id="Ulf-son-of-Umar">
+  <data key="d0">Ulf son of Umar</data>
+</node>
+<edge source="Addam-Marbrand" target="Jaime-Lannister">
+  <data key="d1">3</data>
+</edge>
+<edge source="Addam-Marbrand" target="Tywin-Lannister">
+  <data key="d1">6</data>
+</edge>
+<edge source="Jaime-Lannister" target="Aerys-II-Targaryen">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jaime-Lannister" target="Barristan-Selmy">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jaime-Lannister" target="Brynden-Tully">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jaime-Lannister" target="Catelyn-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Jaime-Lannister" target="Cersei-Lannister">
+  <data key="d1">16</data>
+</edge>
+<edge source="Jaime-Lannister" target="Eddard-Stark">
+  <data key="d1">27</data>
+</edge>
+<edge source="Jaime-Lannister" target="Edmure-Tully">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jaime-Lannister" target="Galbart-Glover">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jaime-Lannister" target="Gregor-Clegane">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jaime-Lannister" target="Harys-Swyft">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jaime-Lannister" target="Joffrey-Baratheon">
+  <data key="d1">12</data>
+</edge>
+<edge source="Jaime-Lannister" target="Jon-Arryn">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jaime-Lannister" target="Jory-Cassel">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jaime-Lannister" target="Kevan-Lannister">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jaime-Lannister" target="Loras-Tyrell">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jaime-Lannister" target="Lysa-Arryn">
+  <data key="d1">6</data>
+</edge>
+<edge source="Jaime-Lannister" target="Petyr-Baelish">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jaime-Lannister" target="Renly-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jaime-Lannister" target="Rickard-Karstark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jaime-Lannister" target="Robb-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Jaime-Lannister" target="Robert-Baratheon">
+  <data key="d1">24</data>
+</edge>
+<edge source="Jaime-Lannister" target="Rodrik-Cassel">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jaime-Lannister" target="Sandor-Clegane">
+  <data key="d1">12</data>
+</edge>
+<edge source="Jaime-Lannister" target="Sansa-Stark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jaime-Lannister" target="Tyrion-Lannister">
+  <data key="d1">36</data>
+</edge>
+<edge source="Jaime-Lannister" target="Tywin-Lannister">
+  <data key="d1">16</data>
+</edge>
+<edge source="Jaime-Lannister" target="Varys">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jaime-Lannister" target="Wyl-(guard)">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tywin-Lannister" target="Bronn">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tywin-Lannister" target="Brynden-Tully">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tywin-Lannister" target="Catelyn-Stark">
+  <data key="d1">7</data>
+</edge>
+<edge source="Tywin-Lannister" target="Cersei-Lannister">
+  <data key="d1">10</data>
+</edge>
+<edge source="Tywin-Lannister" target="Eddard-Stark">
+  <data key="d1">18</data>
+</edge>
+<edge source="Tywin-Lannister" target="Gregor-Clegane">
+  <data key="d1">6</data>
+</edge>
+<edge source="Tywin-Lannister" target="Joffrey-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tywin-Lannister" target="Jon-Umber-(Greatjon)">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tywin-Lannister" target="Kevan-Lannister">
+  <data key="d1">9</data>
+</edge>
+<edge source="Tywin-Lannister" target="Marq-Piper">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tywin-Lannister" target="Pycelle">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tywin-Lannister" target="Rhaegar-Targaryen">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tywin-Lannister" target="Robb-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Tywin-Lannister" target="Robert-Baratheon">
+  <data key="d1">13</data>
+</edge>
+<edge source="Tywin-Lannister" target="Roose-Bolton">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tywin-Lannister" target="Stannis-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tywin-Lannister" target="Theon-Greyjoy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tywin-Lannister" target="Tyrion-Lannister">
+  <data key="d1">40</data>
+</edge>
+<edge source="Tywin-Lannister" target="Varys">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tywin-Lannister" target="Walder-Frey">
+  <data key="d1">8</data>
+</edge>
+<edge source="Aegon-I-Targaryen" target="Daenerys-Targaryen">
+  <data key="d1">5</data>
+</edge>
+<edge source="Aegon-I-Targaryen" target="Eddard-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Aggo">
+  <data key="d1">11</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Cohollo">
+  <data key="d1">7</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Doreah">
+  <data key="d1">15</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Drogo">
+  <data key="d1">101</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Eddard-Stark">
+  <data key="d1">5</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Eroeh">
+  <data key="d1">5</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Haggo">
+  <data key="d1">12</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Illyrio-Mopatis">
+  <data key="d1">24</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Irri">
+  <data key="d1">25</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Jhiqui">
+  <data key="d1">26</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Jhogo">
+  <data key="d1">17</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Jorah-Mormont">
+  <data key="d1">75</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Mirri-Maz-Duur">
+  <data key="d1">31</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Qotho">
+  <data key="d1">18</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Quaro">
+  <data key="d1">5</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Rakharo">
+  <data key="d1">4</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Rhaegar-Targaryen">
+  <data key="d1">4</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Robert-Baratheon">
+  <data key="d1">11</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Varys">
+  <data key="d1">5</data>
+</edge>
+<edge source="Daenerys-Targaryen" target="Viserys-Targaryen">
+  <data key="d1">37</data>
+</edge>
+<edge source="Eddard-Stark" target="Aerys-II-Targaryen">
+  <data key="d1">10</data>
+</edge>
+<edge source="Eddard-Stark" target="Alyn">
+  <data key="d1">11</data>
+</edge>
+<edge source="Eddard-Stark" target="Arya-Stark">
+  <data key="d1">30</data>
+</edge>
+<edge source="Eddard-Stark" target="Balon-Greyjoy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Barristan-Selmy">
+  <data key="d1">28</data>
+</edge>
+<edge source="Eddard-Stark" target="Beric-Dondarrion">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Bran-Stark">
+  <data key="d1">19</data>
+</edge>
+<edge source="Eddard-Stark" target="Brandon-Stark">
+  <data key="d1">11</data>
+</edge>
+<edge source="Eddard-Stark" target="Catelyn-Stark">
+  <data key="d1">64</data>
+</edge>
+<edge source="Eddard-Stark" target="Cayn">
+  <data key="d1">7</data>
+</edge>
+<edge source="Eddard-Stark" target="Cersei-Lannister">
+  <data key="d1">69</data>
+</edge>
+<edge source="Eddard-Stark" target="Daryn-Hornwood">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Desmond">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Edmure-Tully">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Galbart-Glover">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Gendry">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Gerold-Hightower">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Gregor-Clegane">
+  <data key="d1">10</data>
+</edge>
+<edge source="Eddard-Stark" target="Harwin">
+  <data key="d1">5</data>
+</edge>
+<edge source="Eddard-Stark" target="High-Septon-(fat_one)">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Howland-Reed">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Ilyn-Payne">
+  <data key="d1">6</data>
+</edge>
+<edge source="Eddard-Stark" target="Jacks">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Janos-Slynt">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Joffrey-Baratheon">
+  <data key="d1">26</data>
+</edge>
+<edge source="Eddard-Stark" target="Jon-Arryn">
+  <data key="d1">47</data>
+</edge>
+<edge source="Eddard-Stark" target="Jon-Snow">
+  <data key="d1">38</data>
+</edge>
+<edge source="Eddard-Stark" target="Jory-Cassel">
+  <data key="d1">32</data>
+</edge>
+<edge source="Eddard-Stark" target="Joss">
+  <data key="d1">5</data>
+</edge>
+<edge source="Eddard-Stark" target="Loras-Tyrell">
+  <data key="d1">12</data>
+</edge>
+<edge source="Eddard-Stark" target="Luwin">
+  <data key="d1">16</data>
+</edge>
+<edge source="Eddard-Stark" target="Lyanna-Stark">
+  <data key="d1">19</data>
+</edge>
+<edge source="Eddard-Stark" target="Lysa-Arryn">
+  <data key="d1">12</data>
+</edge>
+<edge source="Eddard-Stark" target="Marq-Piper">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Mordane">
+  <data key="d1">11</data>
+</edge>
+<edge source="Eddard-Stark" target="Mycah">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Petyr-Baelish">
+  <data key="d1">81</data>
+</edge>
+<edge source="Eddard-Stark" target="Porther">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Pycelle">
+  <data key="d1">33</data>
+</edge>
+<edge source="Eddard-Stark" target="Raymun-Darry">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Renly-Baratheon">
+  <data key="d1">33</data>
+</edge>
+<edge source="Eddard-Stark" target="Rhaegar-Targaryen">
+  <data key="d1">10</data>
+</edge>
+<edge source="Eddard-Stark" target="Rickard-Karstark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Rickon-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Robb-Stark">
+  <data key="d1">16</data>
+</edge>
+<edge source="Eddard-Stark" target="Robert-Baratheon">
+  <data key="d1">291</data>
+</edge>
+<edge source="Eddard-Stark" target="Rodrik-Cassel">
+  <data key="d1">7</data>
+</edge>
+<edge source="Eddard-Stark" target="Sandor-Clegane">
+  <data key="d1">10</data>
+</edge>
+<edge source="Eddard-Stark" target="Sansa-Stark">
+  <data key="d1">34</data>
+</edge>
+<edge source="Eddard-Stark" target="Stannis-Baratheon">
+  <data key="d1">18</data>
+</edge>
+<edge source="Eddard-Stark" target="Syrio-Forel">
+  <data key="d1">6</data>
+</edge>
+<edge source="Eddard-Stark" target="Theon-Greyjoy">
+  <data key="d1">5</data>
+</edge>
+<edge source="Eddard-Stark" target="Tobho-Mott">
+  <data key="d1">7</data>
+</edge>
+<edge source="Eddard-Stark" target="Tomard">
+  <data key="d1">15</data>
+</edge>
+<edge source="Eddard-Stark" target="Torrhen-Karstark">
+  <data key="d1">5</data>
+</edge>
+<edge source="Eddard-Stark" target="Tregar">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Tyrion-Lannister">
+  <data key="d1">21</data>
+</edge>
+<edge source="Eddard-Stark" target="Varly">
+  <data key="d1">4</data>
+</edge>
+<edge source="Eddard-Stark" target="Varys">
+  <data key="d1">61</data>
+</edge>
+<edge source="Eddard-Stark" target="Vayon-Poole">
+  <data key="d1">12</data>
+</edge>
+<edge source="Eddard-Stark" target="Wyl-(guard)">
+  <data key="d1">3</data>
+</edge>
+<edge source="Eddard-Stark" target="Wylla">
+  <data key="d1">3</data>
+</edge>
+<edge source="Aemon-Targaryen-(Maester-Aemon)" target="Alliser-Thorne">
+  <data key="d1">4</data>
+</edge>
+<edge source="Aemon-Targaryen-(Maester-Aemon)" target="Bowen-Marsh">
+  <data key="d1">4</data>
+</edge>
+<edge source="Aemon-Targaryen-(Maester-Aemon)" target="Chett">
+  <data key="d1">9</data>
+</edge>
+<edge source="Aemon-Targaryen-(Maester-Aemon)" target="Clydas">
+  <data key="d1">5</data>
+</edge>
+<edge source="Aemon-Targaryen-(Maester-Aemon)" target="Jeor-Mormont">
+  <data key="d1">13</data>
+</edge>
+<edge source="Aemon-Targaryen-(Maester-Aemon)" target="Jon-Snow">
+  <data key="d1">34</data>
+</edge>
+<edge source="Aemon-Targaryen-(Maester-Aemon)" target="Samwell-Tarly">
+  <data key="d1">5</data>
+</edge>
+<edge source="Alliser-Thorne" target="Bowen-Marsh">
+  <data key="d1">3</data>
+</edge>
+<edge source="Alliser-Thorne" target="Grenn">
+  <data key="d1">3</data>
+</edge>
+<edge source="Alliser-Thorne" target="Halder">
+  <data key="d1">4</data>
+</edge>
+<edge source="Alliser-Thorne" target="Jeor-Mormont">
+  <data key="d1">10</data>
+</edge>
+<edge source="Alliser-Thorne" target="Jon-Snow">
+  <data key="d1">32</data>
+</edge>
+<edge source="Alliser-Thorne" target="Pypar">
+  <data key="d1">4</data>
+</edge>
+<edge source="Alliser-Thorne" target="Rast">
+  <data key="d1">5</data>
+</edge>
+<edge source="Alliser-Thorne" target="Samwell-Tarly">
+  <data key="d1">8</data>
+</edge>
+<edge source="Alliser-Thorne" target="Tyrion-Lannister">
+  <data key="d1">7</data>
+</edge>
+<edge source="Bowen-Marsh" target="Jeor-Mormont">
+  <data key="d1">8</data>
+</edge>
+<edge source="Bowen-Marsh" target="Jon-Snow">
+  <data key="d1">10</data>
+</edge>
+<edge source="Bowen-Marsh" target="Samwell-Tarly">
+  <data key="d1">3</data>
+</edge>
+<edge source="Chett" target="Jon-Snow">
+  <data key="d1">4</data>
+</edge>
+<edge source="Chett" target="Samwell-Tarly">
+  <data key="d1">6</data>
+</edge>
+<edge source="Jeor-Mormont" target="Benjen-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Jeor-Mormont" target="Bran-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jeor-Mormont" target="Gared">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jeor-Mormont" target="Grenn">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jeor-Mormont" target="Jaremy-Rykker">
+  <data key="d1">11</data>
+</edge>
+<edge source="Jeor-Mormont" target="Jon-Snow">
+  <data key="d1">81</data>
+</edge>
+<edge source="Jeor-Mormont" target="Robert-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jeor-Mormont" target="Samwell-Tarly">
+  <data key="d1">8</data>
+</edge>
+<edge source="Jeor-Mormont" target="Tyrion-Lannister">
+  <data key="d1">23</data>
+</edge>
+<edge source="Jeor-Mormont" target="Yoren">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jon-Snow" target="Albett">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jon-Snow" target="Arya-Stark">
+  <data key="d1">37</data>
+</edge>
+<edge source="Jon-Snow" target="Benjen-Stark">
+  <data key="d1">41</data>
+</edge>
+<edge source="Jon-Snow" target="Bran-Stark">
+  <data key="d1">56</data>
+</edge>
+<edge source="Jon-Snow" target="Catelyn-Stark">
+  <data key="d1">14</data>
+</edge>
+<edge source="Jon-Snow" target="Cersei-Lannister">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jon-Snow" target="Dareon">
+  <data key="d1">6</data>
+</edge>
+<edge source="Jon-Snow" target="Donal-Noye">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jon-Snow" target="Dywen">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jon-Snow" target="Grenn">
+  <data key="d1">31</data>
+</edge>
+<edge source="Jon-Snow" target="Halder">
+  <data key="d1">23</data>
+</edge>
+<edge source="Jon-Snow" target="Hobb">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jon-Snow" target="Jaremy-Rykker">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jon-Snow" target="Joffrey-Baratheon">
+  <data key="d1">10</data>
+</edge>
+<edge source="Jon-Snow" target="Jory-Cassel">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jon-Snow" target="Luwin">
+  <data key="d1">10</data>
+</edge>
+<edge source="Jon-Snow" target="Matthar">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jon-Snow" target="Mordane">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jon-Snow" target="Othor">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jon-Snow" target="Pypar">
+  <data key="d1">45</data>
+</edge>
+<edge source="Jon-Snow" target="Rast">
+  <data key="d1">8</data>
+</edge>
+<edge source="Jon-Snow" target="Rickon-Stark">
+  <data key="d1">11</data>
+</edge>
+<edge source="Jon-Snow" target="Robb-Stark">
+  <data key="d1">53</data>
+</edge>
+<edge source="Jon-Snow" target="Robert-Baratheon">
+  <data key="d1">18</data>
+</edge>
+<edge source="Jon-Snow" target="Rodrik-Cassel">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jon-Snow" target="Samwell-Tarly">
+  <data key="d1">81</data>
+</edge>
+<edge source="Jon-Snow" target="Sansa-Stark">
+  <data key="d1">8</data>
+</edge>
+<edge source="Jon-Snow" target="Theon-Greyjoy">
+  <data key="d1">8</data>
+</edge>
+<edge source="Jon-Snow" target="Todder">
+  <data key="d1">13</data>
+</edge>
+<edge source="Jon-Snow" target="Tyrion-Lannister">
+  <data key="d1">56</data>
+</edge>
+<edge source="Jon-Snow" target="Yoren">
+  <data key="d1">6</data>
+</edge>
+<edge source="Samwell-Tarly" target="Grenn">
+  <data key="d1">8</data>
+</edge>
+<edge source="Samwell-Tarly" target="Halder">
+  <data key="d1">6</data>
+</edge>
+<edge source="Samwell-Tarly" target="Pypar">
+  <data key="d1">11</data>
+</edge>
+<edge source="Samwell-Tarly" target="Randyll-Tarly">
+  <data key="d1">5</data>
+</edge>
+<edge source="Samwell-Tarly" target="Rast">
+  <data key="d1">3</data>
+</edge>
+<edge source="Samwell-Tarly" target="Robb-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Aerys-II-Targaryen" target="Brandon-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Aerys-II-Targaryen" target="Gerold-Hightower">
+  <data key="d1">3</data>
+</edge>
+<edge source="Aerys-II-Targaryen" target="Jon-Arryn">
+  <data key="d1">3</data>
+</edge>
+<edge source="Aerys-II-Targaryen" target="Robert-Baratheon">
+  <data key="d1">12</data>
+</edge>
+<edge source="Brandon-Stark" target="Lyanna-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Brandon-Stark" target="Petyr-Baelish">
+  <data key="d1">14</data>
+</edge>
+<edge source="Brandon-Stark" target="Rickard-Stark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Brandon-Stark" target="Robert-Baratheon">
+  <data key="d1">5</data>
+</edge>
+<edge source="Gerold-Hightower" target="Arthur-Dayne">
+  <data key="d1">4</data>
+</edge>
+<edge source="Gerold-Hightower" target="Oswell-Whent">
+  <data key="d1">3</data>
+</edge>
+<edge source="Gerold-Hightower" target="Robert-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jon-Arryn" target="Barristan-Selmy">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jon-Arryn" target="Bran-Stark">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jon-Arryn" target="Catelyn-Stark">
+  <data key="d1">11</data>
+</edge>
+<edge source="Jon-Arryn" target="Cersei-Lannister">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jon-Arryn" target="Hugh">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jon-Arryn" target="Lysa-Arryn">
+  <data key="d1">12</data>
+</edge>
+<edge source="Jon-Arryn" target="Petyr-Baelish">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jon-Arryn" target="Pycelle">
+  <data key="d1">11</data>
+</edge>
+<edge source="Jon-Arryn" target="Robert-Baratheon">
+  <data key="d1">32</data>
+</edge>
+<edge source="Jon-Arryn" target="Stannis-Baratheon">
+  <data key="d1">13</data>
+</edge>
+<edge source="Jon-Arryn" target="Tyrion-Lannister">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jon-Arryn" target="Varys">
+  <data key="d1">5</data>
+</edge>
+<edge source="Robert-Baratheon" target="Alyn">
+  <data key="d1">4</data>
+</edge>
+<edge source="Robert-Baratheon" target="Arya-Stark">
+  <data key="d1">8</data>
+</edge>
+<edge source="Robert-Baratheon" target="Balon-Greyjoy">
+  <data key="d1">4</data>
+</edge>
+<edge source="Robert-Baratheon" target="Barristan-Selmy">
+  <data key="d1">40</data>
+</edge>
+<edge source="Robert-Baratheon" target="Benjen-Stark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Beric-Dondarrion">
+  <data key="d1">5</data>
+</edge>
+<edge source="Robert-Baratheon" target="Bran-Stark">
+  <data key="d1">11</data>
+</edge>
+<edge source="Robert-Baratheon" target="Catelyn-Stark">
+  <data key="d1">22</data>
+</edge>
+<edge source="Robert-Baratheon" target="Cersei-Lannister">
+  <data key="d1">72</data>
+</edge>
+<edge source="Robert-Baratheon" target="Drogo">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Gregor-Clegane">
+  <data key="d1">4</data>
+</edge>
+<edge source="Robert-Baratheon" target="Hoster-Tully">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Illyrio-Mopatis">
+  <data key="d1">6</data>
+</edge>
+<edge source="Robert-Baratheon" target="Ilyn-Payne">
+  <data key="d1">4</data>
+</edge>
+<edge source="Robert-Baratheon" target="Janos-Slynt">
+  <data key="d1">4</data>
+</edge>
+<edge source="Robert-Baratheon" target="Jeyne-Poole">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Joffrey-Baratheon">
+  <data key="d1">30</data>
+</edge>
+<edge source="Robert-Baratheon" target="Jorah-Mormont">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Jory-Cassel">
+  <data key="d1">7</data>
+</edge>
+<edge source="Robert-Baratheon" target="Lancel-Lannister">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Loras-Tyrell">
+  <data key="d1">4</data>
+</edge>
+<edge source="Robert-Baratheon" target="Lyanna-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Robert-Baratheon" target="Lysa-Arryn">
+  <data key="d1">5</data>
+</edge>
+<edge source="Robert-Baratheon" target="Meryn-Trant">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Mordane">
+  <data key="d1">7</data>
+</edge>
+<edge source="Robert-Baratheon" target="Myrcella-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Petyr-Baelish">
+  <data key="d1">30</data>
+</edge>
+<edge source="Robert-Baratheon" target="Pycelle">
+  <data key="d1">26</data>
+</edge>
+<edge source="Robert-Baratheon" target="Raymun-Darry">
+  <data key="d1">8</data>
+</edge>
+<edge source="Robert-Baratheon" target="Renly-Baratheon">
+  <data key="d1">42</data>
+</edge>
+<edge source="Robert-Baratheon" target="Rhaegar-Targaryen">
+  <data key="d1">22</data>
+</edge>
+<edge source="Robert-Baratheon" target="Robb-Stark">
+  <data key="d1">6</data>
+</edge>
+<edge source="Robert-Baratheon" target="Sandor-Clegane">
+  <data key="d1">9</data>
+</edge>
+<edge source="Robert-Baratheon" target="Sansa-Stark">
+  <data key="d1">26</data>
+</edge>
+<edge source="Robert-Baratheon" target="Stannis-Baratheon">
+  <data key="d1">21</data>
+</edge>
+<edge source="Robert-Baratheon" target="Tommen-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Tyrion-Lannister">
+  <data key="d1">18</data>
+</edge>
+<edge source="Robert-Baratheon" target="Varys">
+  <data key="d1">36</data>
+</edge>
+<edge source="Robert-Baratheon" target="Vayon-Poole">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robert-Baratheon" target="Viserys-Targaryen">
+  <data key="d1">7</data>
+</edge>
+<edge source="Aggo" target="Drogo">
+  <data key="d1">6</data>
+</edge>
+<edge source="Aggo" target="Jhogo">
+  <data key="d1">4</data>
+</edge>
+<edge source="Aggo" target="Jorah-Mormont">
+  <data key="d1">5</data>
+</edge>
+<edge source="Aggo" target="Quaro">
+  <data key="d1">3</data>
+</edge>
+<edge source="Aggo" target="Rakharo">
+  <data key="d1">7</data>
+</edge>
+<edge source="Drogo" target="Cohollo">
+  <data key="d1">9</data>
+</edge>
+<edge source="Drogo" target="Doreah">
+  <data key="d1">5</data>
+</edge>
+<edge source="Drogo" target="Haggo">
+  <data key="d1">9</data>
+</edge>
+<edge source="Drogo" target="Illyrio-Mopatis">
+  <data key="d1">16</data>
+</edge>
+<edge source="Drogo" target="Irri">
+  <data key="d1">9</data>
+</edge>
+<edge source="Drogo" target="Jhiqui">
+  <data key="d1">5</data>
+</edge>
+<edge source="Drogo" target="Jhogo">
+  <data key="d1">7</data>
+</edge>
+<edge source="Drogo" target="Jommo">
+  <data key="d1">3</data>
+</edge>
+<edge source="Drogo" target="Jorah-Mormont">
+  <data key="d1">16</data>
+</edge>
+<edge source="Drogo" target="Mirri-Maz-Duur">
+  <data key="d1">12</data>
+</edge>
+<edge source="Drogo" target="Ogo">
+  <data key="d1">11</data>
+</edge>
+<edge source="Drogo" target="Qotho">
+  <data key="d1">13</data>
+</edge>
+<edge source="Drogo" target="Quaro">
+  <data key="d1">3</data>
+</edge>
+<edge source="Drogo" target="Rakharo">
+  <data key="d1">4</data>
+</edge>
+<edge source="Drogo" target="Rhaego">
+  <data key="d1">5</data>
+</edge>
+<edge source="Drogo" target="Viserys-Targaryen">
+  <data key="d1">19</data>
+</edge>
+<edge source="Jhogo" target="Irri">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jhogo" target="Jorah-Mormont">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jhogo" target="Mirri-Maz-Duur">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jorah-Mormont" target="Doreah">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jorah-Mormont" target="Illyrio-Mopatis">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jorah-Mormont" target="Irri">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jorah-Mormont" target="Jhiqui">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jorah-Mormont" target="Mirri-Maz-Duur">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jorah-Mormont" target="Qotho">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jorah-Mormont" target="Rhaegar-Targaryen">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jorah-Mormont" target="Viserys-Targaryen">
+  <data key="d1">15</data>
+</edge>
+<edge source="Quaro" target="Qotho">
+  <data key="d1">4</data>
+</edge>
+<edge source="Quaro" target="Rakharo">
+  <data key="d1">6</data>
+</edge>
+<edge source="Rakharo" target="Haggo">
+  <data key="d1">3</data>
+</edge>
+<edge source="Albett" target="Halder">
+  <data key="d1">3</data>
+</edge>
+<edge source="Albett" target="Rast">
+  <data key="d1">3</data>
+</edge>
+<edge source="Halder" target="Grenn">
+  <data key="d1">6</data>
+</edge>
+<edge source="Halder" target="Pypar">
+  <data key="d1">8</data>
+</edge>
+<edge source="Halder" target="Rast">
+  <data key="d1">3</data>
+</edge>
+<edge source="Halder" target="Todder">
+  <data key="d1">3</data>
+</edge>
+<edge source="Rast" target="Pypar">
+  <data key="d1">4</data>
+</edge>
+<edge source="Grenn" target="Pypar">
+  <data key="d1">27</data>
+</edge>
+<edge source="Grenn" target="Todder">
+  <data key="d1">7</data>
+</edge>
+<edge source="Pypar" target="Todder">
+  <data key="d1">8</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Benjen-Stark">
+  <data key="d1">8</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Bran-Stark">
+  <data key="d1">31</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Bronn">
+  <data key="d1">61</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Brynden-Tully">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Catelyn-Stark">
+  <data key="d1">49</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Cersei-Lannister">
+  <data key="d1">27</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Chella">
+  <data key="d1">5</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Chiggen">
+  <data key="d1">5</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Conn">
+  <data key="d1">6</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Gregor-Clegane">
+  <data key="d1">7</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Gunthor-son-of-Gurn">
+  <data key="d1">7</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Joffrey-Baratheon">
+  <data key="d1">13</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Jyck">
+  <data key="d1">6</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Kevan-Lannister">
+  <data key="d1">15</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Kurleket">
+  <data key="d1">5</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Leo-Lefford">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Luwin">
+  <data key="d1">10</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Lysa-Arryn">
+  <data key="d1">25</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Marillion">
+  <data key="d1">10</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Mord">
+  <data key="d1">20</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Morrec">
+  <data key="d1">5</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Petyr-Baelish">
+  <data key="d1">11</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Renly-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Rickon-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Robb-Stark">
+  <data key="d1">11</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Robert-Arryn">
+  <data key="d1">9</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Rodrik-Cassel">
+  <data key="d1">10</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Sandor-Clegane">
+  <data key="d1">5</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Sansa-Stark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Shae">
+  <data key="d1">12</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Shagga">
+  <data key="d1">17</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Theon-Greyjoy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Timett">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Tommen-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Vardis-Egen">
+  <data key="d1">9</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Varys">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Willis-Wode">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tyrion-Lannister" target="Yoren">
+  <data key="d1">10</data>
+</edge>
+<edge source="Alyn" target="Harwin">
+  <data key="d1">6</data>
+</edge>
+<edge source="Alyn" target="Jory-Cassel">
+  <data key="d1">8</data>
+</edge>
+<edge source="Alyn" target="Tomard">
+  <data key="d1">3</data>
+</edge>
+<edge source="Harwin" target="Hullen">
+  <data key="d1">3</data>
+</edge>
+<edge source="Harwin" target="Jory-Cassel">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jory-Cassel" target="Arya-Stark">
+  <data key="d1">12</data>
+</edge>
+<edge source="Jory-Cassel" target="Bran-Stark">
+  <data key="d1">11</data>
+</edge>
+<edge source="Jory-Cassel" target="Cersei-Lannister">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jory-Cassel" target="Heward">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jory-Cassel" target="Hullen">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jory-Cassel" target="Mordane">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jory-Cassel" target="Petyr-Baelish">
+  <data key="d1">8</data>
+</edge>
+<edge source="Jory-Cassel" target="Robb-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Jory-Cassel" target="Rodrik-Cassel">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jory-Cassel" target="Sansa-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Jory-Cassel" target="Stannis-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jory-Cassel" target="Theon-Greyjoy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jory-Cassel" target="Tomard">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jory-Cassel" target="Vayon-Poole">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jory-Cassel" target="Wyl-(guard)">
+  <data key="d1">6</data>
+</edge>
+<edge source="Tomard" target="Arya-Stark">
+  <data key="d1">6</data>
+</edge>
+<edge source="Tomard" target="Cayn">
+  <data key="d1">6</data>
+</edge>
+<edge source="Tomard" target="Petyr-Baelish">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tomard" target="Sansa-Stark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Arya-Stark" target="Benjen-Stark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Arya-Stark" target="Bran-Stark">
+  <data key="d1">14</data>
+</edge>
+<edge source="Arya-Stark" target="Catelyn-Stark">
+  <data key="d1">5</data>
+</edge>
+<edge source="Arya-Stark" target="Cersei-Lannister">
+  <data key="d1">12</data>
+</edge>
+<edge source="Arya-Stark" target="Desmond">
+  <data key="d1">3</data>
+</edge>
+<edge source="Arya-Stark" target="Ilyn-Payne">
+  <data key="d1">5</data>
+</edge>
+<edge source="Arya-Stark" target="Jeyne-Poole">
+  <data key="d1">10</data>
+</edge>
+<edge source="Arya-Stark" target="Joffrey-Baratheon">
+  <data key="d1">39</data>
+</edge>
+<edge source="Arya-Stark" target="Meryn-Trant">
+  <data key="d1">4</data>
+</edge>
+<edge source="Arya-Stark" target="Mordane">
+  <data key="d1">39</data>
+</edge>
+<edge source="Arya-Stark" target="Mycah">
+  <data key="d1">18</data>
+</edge>
+<edge source="Arya-Stark" target="Myrcella-Baratheon">
+  <data key="d1">13</data>
+</edge>
+<edge source="Arya-Stark" target="Petyr-Baelish">
+  <data key="d1">3</data>
+</edge>
+<edge source="Arya-Stark" target="Rickon-Stark">
+  <data key="d1">7</data>
+</edge>
+<edge source="Arya-Stark" target="Robb-Stark">
+  <data key="d1">15</data>
+</edge>
+<edge source="Arya-Stark" target="Rodrik-Cassel">
+  <data key="d1">3</data>
+</edge>
+<edge source="Arya-Stark" target="Sandor-Clegane">
+  <data key="d1">7</data>
+</edge>
+<edge source="Arya-Stark" target="Sansa-Stark">
+  <data key="d1">104</data>
+</edge>
+<edge source="Arya-Stark" target="Syrio-Forel">
+  <data key="d1">20</data>
+</edge>
+<edge source="Arya-Stark" target="Tommen-Baratheon">
+  <data key="d1">5</data>
+</edge>
+<edge source="Arya-Stark" target="Vayon-Poole">
+  <data key="d1">4</data>
+</edge>
+<edge source="Arya-Stark" target="Yoren">
+  <data key="d1">4</data>
+</edge>
+<edge source="Benjen-Stark" target="Bran-Stark">
+  <data key="d1">6</data>
+</edge>
+<edge source="Benjen-Stark" target="Cersei-Lannister">
+  <data key="d1">3</data>
+</edge>
+<edge source="Benjen-Stark" target="Jaremy-Rykker">
+  <data key="d1">3</data>
+</edge>
+<edge source="Benjen-Stark" target="Luwin">
+  <data key="d1">7</data>
+</edge>
+<edge source="Benjen-Stark" target="Mance-Rayder">
+  <data key="d1">3</data>
+</edge>
+<edge source="Benjen-Stark" target="Robb-Stark">
+  <data key="d1">7</data>
+</edge>
+<edge source="Benjen-Stark" target="Theon-Greyjoy">
+  <data key="d1">4</data>
+</edge>
+<edge source="Benjen-Stark" target="Waymar-Royce">
+  <data key="d1">3</data>
+</edge>
+<edge source="Benjen-Stark" target="Yoren">
+  <data key="d1">4</data>
+</edge>
+<edge source="Bran-Stark" target="Catelyn-Stark">
+  <data key="d1">18</data>
+</edge>
+<edge source="Bran-Stark" target="Cersei-Lannister">
+  <data key="d1">6</data>
+</edge>
+<edge source="Bran-Stark" target="Hali">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bran-Stark" target="Hallis-Mollen">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bran-Stark" target="Hodor">
+  <data key="d1">29</data>
+</edge>
+<edge source="Bran-Stark" target="Hullen">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bran-Stark" target="Joffrey-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bran-Stark" target="Joseth">
+  <data key="d1">4</data>
+</edge>
+<edge source="Bran-Stark" target="Luwin">
+  <data key="d1">65</data>
+</edge>
+<edge source="Bran-Stark" target="Nan">
+  <data key="d1">17</data>
+</edge>
+<edge source="Bran-Stark" target="Osha">
+  <data key="d1">12</data>
+</edge>
+<edge source="Bran-Stark" target="Petyr-Baelish">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bran-Stark" target="Renly-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bran-Stark" target="Rickard-Karstark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Bran-Stark" target="Rickard-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Bran-Stark" target="Rickon-Stark">
+  <data key="d1">32</data>
+</edge>
+<edge source="Bran-Stark" target="Robb-Stark">
+  <data key="d1">112</data>
+</edge>
+<edge source="Bran-Stark" target="Rodrik-Cassel">
+  <data key="d1">6</data>
+</edge>
+<edge source="Bran-Stark" target="Sansa-Stark">
+  <data key="d1">10</data>
+</edge>
+<edge source="Bran-Stark" target="Stiv">
+  <data key="d1">4</data>
+</edge>
+<edge source="Bran-Stark" target="Theon-Greyjoy">
+  <data key="d1">23</data>
+</edge>
+<edge source="Bran-Stark" target="Tommen-Baratheon">
+  <data key="d1">5</data>
+</edge>
+<edge source="Bran-Stark" target="Yoren">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Bronn">
+  <data key="d1">6</data>
+</edge>
+<edge source="Catelyn-Stark" target="Brynden-Tully">
+  <data key="d1">16</data>
+</edge>
+<edge source="Catelyn-Stark" target="Cersei-Lannister">
+  <data key="d1">12</data>
+</edge>
+<edge source="Catelyn-Stark" target="Colemon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Donnel-Waynwood">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Edmure-Tully">
+  <data key="d1">7</data>
+</edge>
+<edge source="Catelyn-Stark" target="Eon-Hunter">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Hallis-Mollen">
+  <data key="d1">10</data>
+</edge>
+<edge source="Catelyn-Stark" target="Hoster-Tully">
+  <data key="d1">6</data>
+</edge>
+<edge source="Catelyn-Stark" target="Joffrey-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Catelyn-Stark" target="Jon-Umber-(Greatjon)">
+  <data key="d1">4</data>
+</edge>
+<edge source="Catelyn-Stark" target="Luwin">
+  <data key="d1">14</data>
+</edge>
+<edge source="Catelyn-Stark" target="Lysa-Arryn">
+  <data key="d1">33</data>
+</edge>
+<edge source="Catelyn-Stark" target="Marillion">
+  <data key="d1">6</data>
+</edge>
+<edge source="Catelyn-Stark" target="Masha-Heddle">
+  <data key="d1">5</data>
+</edge>
+<edge source="Catelyn-Stark" target="Moreo-Tumitis">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Mya-Stone">
+  <data key="d1">9</data>
+</edge>
+<edge source="Catelyn-Stark" target="Mychel-Redfort">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Nestor-Royce">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Petyr-Baelish">
+  <data key="d1">22</data>
+</edge>
+<edge source="Catelyn-Stark" target="Rickard-Karstark">
+  <data key="d1">6</data>
+</edge>
+<edge source="Catelyn-Stark" target="Rickon-Stark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Robb-Stark">
+  <data key="d1">49</data>
+</edge>
+<edge source="Catelyn-Stark" target="Robert-Arryn">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Rodrik-Cassel">
+  <data key="d1">25</data>
+</edge>
+<edge source="Catelyn-Stark" target="Sansa-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Catelyn-Stark" target="Stevron-Frey">
+  <data key="d1">5</data>
+</edge>
+<edge source="Catelyn-Stark" target="Theon-Greyjoy">
+  <data key="d1">9</data>
+</edge>
+<edge source="Catelyn-Stark" target="Tytos-Blackwood">
+  <data key="d1">4</data>
+</edge>
+<edge source="Catelyn-Stark" target="Vardis-Egen">
+  <data key="d1">5</data>
+</edge>
+<edge source="Catelyn-Stark" target="Varys">
+  <data key="d1">10</data>
+</edge>
+<edge source="Catelyn-Stark" target="Walder-Frey">
+  <data key="d1">13</data>
+</edge>
+<edge source="Catelyn-Stark" target="Wendel-Manderly">
+  <data key="d1">3</data>
+</edge>
+<edge source="Catelyn-Stark" target="Willis-Wode">
+  <data key="d1">5</data>
+</edge>
+<edge source="Cersei-Lannister" target="Arys-Oakheart">
+  <data key="d1">3</data>
+</edge>
+<edge source="Cersei-Lannister" target="Barristan-Selmy">
+  <data key="d1">12</data>
+</edge>
+<edge source="Cersei-Lannister" target="Boros-Blount">
+  <data key="d1">9</data>
+</edge>
+<edge source="Cersei-Lannister" target="Ilyn-Payne">
+  <data key="d1">4</data>
+</edge>
+<edge source="Cersei-Lannister" target="Janos-Slynt">
+  <data key="d1">4</data>
+</edge>
+<edge source="Cersei-Lannister" target="Joffrey-Baratheon">
+  <data key="d1">42</data>
+</edge>
+<edge source="Cersei-Lannister" target="Meryn-Trant">
+  <data key="d1">4</data>
+</edge>
+<edge source="Cersei-Lannister" target="Mordane">
+  <data key="d1">3</data>
+</edge>
+<edge source="Cersei-Lannister" target="Myrcella-Baratheon">
+  <data key="d1">7</data>
+</edge>
+<edge source="Cersei-Lannister" target="Petyr-Baelish">
+  <data key="d1">13</data>
+</edge>
+<edge source="Cersei-Lannister" target="Pycelle">
+  <data key="d1">9</data>
+</edge>
+<edge source="Cersei-Lannister" target="Renly-Baratheon">
+  <data key="d1">5</data>
+</edge>
+<edge source="Cersei-Lannister" target="Sandor-Clegane">
+  <data key="d1">5</data>
+</edge>
+<edge source="Cersei-Lannister" target="Sansa-Stark">
+  <data key="d1">29</data>
+</edge>
+<edge source="Cersei-Lannister" target="Stannis-Baratheon">
+  <data key="d1">5</data>
+</edge>
+<edge source="Cersei-Lannister" target="Tommen-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Cersei-Lannister" target="Varys">
+  <data key="d1">19</data>
+</edge>
+<edge source="Cersei-Lannister" target="Vayon-Poole">
+  <data key="d1">4</data>
+</edge>
+<edge source="Ilyn-Payne" target="Jeyne-Poole">
+  <data key="d1">3</data>
+</edge>
+<edge source="Ilyn-Payne" target="Joffrey-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Ilyn-Payne" target="Loras-Tyrell">
+  <data key="d1">3</data>
+</edge>
+<edge source="Ilyn-Payne" target="Sansa-Stark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Ilyn-Payne" target="Varys">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jeyne-Poole" target="Loras-Tyrell">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jeyne-Poole" target="Mordane">
+  <data key="d1">7</data>
+</edge>
+<edge source="Jeyne-Poole" target="Sansa-Stark">
+  <data key="d1">27</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Barristan-Selmy">
+  <data key="d1">6</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Boros-Blount">
+  <data key="d1">3</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="High-Septon-(fat_one)">
+  <data key="d1">4</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Janos-Slynt">
+  <data key="d1">4</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Loras-Tyrell">
+  <data key="d1">3</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Meryn-Trant">
+  <data key="d1">3</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Mordane">
+  <data key="d1">9</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Mycah">
+  <data key="d1">14</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Myrcella-Baratheon">
+  <data key="d1">5</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Petyr-Baelish">
+  <data key="d1">11</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Pycelle">
+  <data key="d1">4</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Renly-Baratheon">
+  <data key="d1">9</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Robb-Stark">
+  <data key="d1">19</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Rodrik-Cassel">
+  <data key="d1">9</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Sandor-Clegane">
+  <data key="d1">24</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Sansa-Stark">
+  <data key="d1">87</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Stannis-Baratheon">
+  <data key="d1">7</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Tommen-Baratheon">
+  <data key="d1">8</data>
+</edge>
+<edge source="Joffrey-Baratheon" target="Varys">
+  <data key="d1">7</data>
+</edge>
+<edge source="Meryn-Trant" target="Barristan-Selmy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Meryn-Trant" target="Boros-Blount">
+  <data key="d1">5</data>
+</edge>
+<edge source="Meryn-Trant" target="Sandor-Clegane">
+  <data key="d1">4</data>
+</edge>
+<edge source="Meryn-Trant" target="Sansa-Stark">
+  <data key="d1">5</data>
+</edge>
+<edge source="Meryn-Trant" target="Syrio-Forel">
+  <data key="d1">5</data>
+</edge>
+<edge source="Mordane" target="Myrcella-Baratheon">
+  <data key="d1">12</data>
+</edge>
+<edge source="Mordane" target="Petyr-Baelish">
+  <data key="d1">3</data>
+</edge>
+<edge source="Mordane" target="Sansa-Stark">
+  <data key="d1">43</data>
+</edge>
+<edge source="Mycah" target="Sandor-Clegane">
+  <data key="d1">5</data>
+</edge>
+<edge source="Mycah" target="Sansa-Stark">
+  <data key="d1">10</data>
+</edge>
+<edge source="Myrcella-Baratheon" target="Sansa-Stark">
+  <data key="d1">8</data>
+</edge>
+<edge source="Myrcella-Baratheon" target="Tommen-Baratheon">
+  <data key="d1">6</data>
+</edge>
+<edge source="Petyr-Baelish" target="Barristan-Selmy">
+  <data key="d1">7</data>
+</edge>
+<edge source="Petyr-Baelish" target="Edmure-Tully">
+  <data key="d1">4</data>
+</edge>
+<edge source="Petyr-Baelish" target="Gregor-Clegane">
+  <data key="d1">3</data>
+</edge>
+<edge source="Petyr-Baelish" target="Janos-Slynt">
+  <data key="d1">3</data>
+</edge>
+<edge source="Petyr-Baelish" target="Loras-Tyrell">
+  <data key="d1">5</data>
+</edge>
+<edge source="Petyr-Baelish" target="Lysa-Arryn">
+  <data key="d1">4</data>
+</edge>
+<edge source="Petyr-Baelish" target="Pycelle">
+  <data key="d1">14</data>
+</edge>
+<edge source="Petyr-Baelish" target="Renly-Baratheon">
+  <data key="d1">12</data>
+</edge>
+<edge source="Petyr-Baelish" target="Rodrik-Cassel">
+  <data key="d1">7</data>
+</edge>
+<edge source="Petyr-Baelish" target="Sandor-Clegane">
+  <data key="d1">3</data>
+</edge>
+<edge source="Petyr-Baelish" target="Sansa-Stark">
+  <data key="d1">8</data>
+</edge>
+<edge source="Petyr-Baelish" target="Varys">
+  <data key="d1">29</data>
+</edge>
+<edge source="Rickon-Stark" target="Luwin">
+  <data key="d1">9</data>
+</edge>
+<edge source="Rickon-Stark" target="Robb-Stark">
+  <data key="d1">20</data>
+</edge>
+<edge source="Rickon-Stark" target="Sansa-Stark">
+  <data key="d1">8</data>
+</edge>
+<edge source="Robb-Stark" target="Brynden-Tully">
+  <data key="d1">9</data>
+</edge>
+<edge source="Robb-Stark" target="Edmure-Tully">
+  <data key="d1">5</data>
+</edge>
+<edge source="Robb-Stark" target="Galbart-Glover">
+  <data key="d1">5</data>
+</edge>
+<edge source="Robb-Stark" target="Hallis-Mollen">
+  <data key="d1">13</data>
+</edge>
+<edge source="Robb-Stark" target="Hodor">
+  <data key="d1">5</data>
+</edge>
+<edge source="Robb-Stark" target="Hullen">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robb-Stark" target="Jon-Umber-(Greatjon)">
+  <data key="d1">8</data>
+</edge>
+<edge source="Robb-Stark" target="Luwin">
+  <data key="d1">20</data>
+</edge>
+<edge source="Robb-Stark" target="Nan">
+  <data key="d1">4</data>
+</edge>
+<edge source="Robb-Stark" target="Osha">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robb-Stark" target="Renly-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robb-Stark" target="Rickard-Karstark">
+  <data key="d1">9</data>
+</edge>
+<edge source="Robb-Stark" target="Rodrik-Cassel">
+  <data key="d1">15</data>
+</edge>
+<edge source="Robb-Stark" target="Roose-Bolton">
+  <data key="d1">6</data>
+</edge>
+<edge source="Robb-Stark" target="Sansa-Stark">
+  <data key="d1">13</data>
+</edge>
+<edge source="Robb-Stark" target="Stiv">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robb-Stark" target="Theon-Greyjoy">
+  <data key="d1">37</data>
+</edge>
+<edge source="Robb-Stark" target="Torrhen-Karstark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robb-Stark" target="Walder-Frey">
+  <data key="d1">7</data>
+</edge>
+<edge source="Robb-Stark" target="Wendel-Manderly">
+  <data key="d1">3</data>
+</edge>
+<edge source="Robb-Stark" target="Yoren">
+  <data key="d1">3</data>
+</edge>
+<edge source="Rodrik-Cassel" target="Bronn">
+  <data key="d1">4</data>
+</edge>
+<edge source="Rodrik-Cassel" target="Hullen">
+  <data key="d1">3</data>
+</edge>
+<edge source="Rodrik-Cassel" target="Loras-Tyrell">
+  <data key="d1">3</data>
+</edge>
+<edge source="Rodrik-Cassel" target="Luwin">
+  <data key="d1">3</data>
+</edge>
+<edge source="Rodrik-Cassel" target="Marillion">
+  <data key="d1">5</data>
+</edge>
+<edge source="Rodrik-Cassel" target="Theon-Greyjoy">
+  <data key="d1">6</data>
+</edge>
+<edge source="Rodrik-Cassel" target="Willis-Wode">
+  <data key="d1">7</data>
+</edge>
+<edge source="Sandor-Clegane" target="Balon-Swann">
+  <data key="d1">3</data>
+</edge>
+<edge source="Sandor-Clegane" target="Barristan-Selmy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Sandor-Clegane" target="Gregor-Clegane">
+  <data key="d1">11</data>
+</edge>
+<edge source="Sandor-Clegane" target="Loras-Tyrell">
+  <data key="d1">4</data>
+</edge>
+<edge source="Sandor-Clegane" target="Renly-Baratheon">
+  <data key="d1">7</data>
+</edge>
+<edge source="Sandor-Clegane" target="Sansa-Stark">
+  <data key="d1">23</data>
+</edge>
+<edge source="Sansa-Stark" target="Barristan-Selmy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Sansa-Stark" target="Beric-Dondarrion">
+  <data key="d1">4</data>
+</edge>
+<edge source="Sansa-Stark" target="Boros-Blount">
+  <data key="d1">6</data>
+</edge>
+<edge source="Sansa-Stark" target="Gregor-Clegane">
+  <data key="d1">5</data>
+</edge>
+<edge source="Sansa-Stark" target="Janos-Slynt">
+  <data key="d1">3</data>
+</edge>
+<edge source="Sansa-Stark" target="Loras-Tyrell">
+  <data key="d1">14</data>
+</edge>
+<edge source="Sansa-Stark" target="Lyanna-Stark">
+  <data key="d1">4</data>
+</edge>
+<edge source="Sansa-Stark" target="Maegor-I-Targaryen">
+  <data key="d1">4</data>
+</edge>
+<edge source="Sansa-Stark" target="Pycelle">
+  <data key="d1">8</data>
+</edge>
+<edge source="Sansa-Stark" target="Renly-Baratheon">
+  <data key="d1">5</data>
+</edge>
+<edge source="Sansa-Stark" target="Rhaegar-Targaryen">
+  <data key="d1">3</data>
+</edge>
+<edge source="Sansa-Stark" target="Stannis-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Sansa-Stark" target="Varys">
+  <data key="d1">4</data>
+</edge>
+<edge source="Tommen-Baratheon" target="Luwin">
+  <data key="d1">3</data>
+</edge>
+<edge source="Balon-Swann" target="Renly-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Renly-Baratheon" target="Barristan-Selmy">
+  <data key="d1">13</data>
+</edge>
+<edge source="Renly-Baratheon" target="Cayn">
+  <data key="d1">3</data>
+</edge>
+<edge source="Renly-Baratheon" target="Loras-Tyrell">
+  <data key="d1">5</data>
+</edge>
+<edge source="Renly-Baratheon" target="Pycelle">
+  <data key="d1">7</data>
+</edge>
+<edge source="Renly-Baratheon" target="Stannis-Baratheon">
+  <data key="d1">19</data>
+</edge>
+<edge source="Renly-Baratheon" target="Varys">
+  <data key="d1">9</data>
+</edge>
+<edge source="Barristan-Selmy" target="Boros-Blount">
+  <data key="d1">3</data>
+</edge>
+<edge source="Barristan-Selmy" target="Pycelle">
+  <data key="d1">8</data>
+</edge>
+<edge source="Barristan-Selmy" target="Varys">
+  <data key="d1">9</data>
+</edge>
+<edge source="Pycelle" target="Gregor-Clegane">
+  <data key="d1">3</data>
+</edge>
+<edge source="Pycelle" target="Janos-Slynt">
+  <data key="d1">3</data>
+</edge>
+<edge source="Pycelle" target="Stannis-Baratheon">
+  <data key="d1">3</data>
+</edge>
+<edge source="Pycelle" target="Varys">
+  <data key="d1">17</data>
+</edge>
+<edge source="Varys" target="Stannis-Baratheon">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jaremy-Rykker" target="Jafer-Flowers">
+  <data key="d1">3</data>
+</edge>
+<edge source="Luwin" target="Hallis-Mollen">
+  <data key="d1">4</data>
+</edge>
+<edge source="Luwin" target="Hodor">
+  <data key="d1">10</data>
+</edge>
+<edge source="Luwin" target="Hullen">
+  <data key="d1">3</data>
+</edge>
+<edge source="Luwin" target="Joseth">
+  <data key="d1">3</data>
+</edge>
+<edge source="Luwin" target="Nan">
+  <data key="d1">4</data>
+</edge>
+<edge source="Luwin" target="Osha">
+  <data key="d1">16</data>
+</edge>
+<edge source="Luwin" target="Rickard-Karstark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Luwin" target="Theon-Greyjoy">
+  <data key="d1">10</data>
+</edge>
+<edge source="Theon-Greyjoy" target="Brynden-Tully">
+  <data key="d1">6</data>
+</edge>
+<edge source="Theon-Greyjoy" target="Hallis-Mollen">
+  <data key="d1">7</data>
+</edge>
+<edge source="Theon-Greyjoy" target="Jon-Umber-(Greatjon)">
+  <data key="d1">5</data>
+</edge>
+<edge source="Theon-Greyjoy" target="Walder-Frey">
+  <data key="d1">4</data>
+</edge>
+<edge source="Waymar-Royce" target="Gared">
+  <data key="d1">13</data>
+</edge>
+<edge source="Waymar-Royce" target="Will-(prologue)">
+  <data key="d1">18</data>
+</edge>
+<edge source="Beric-Dondarrion" target="Gregor-Clegane">
+  <data key="d1">6</data>
+</edge>
+<edge source="Beric-Dondarrion" target="Loras-Tyrell">
+  <data key="d1">5</data>
+</edge>
+<edge source="Beric-Dondarrion" target="Thoros-of-Myr">
+  <data key="d1">5</data>
+</edge>
+<edge source="Gregor-Clegane" target="Loras-Tyrell">
+  <data key="d1">10</data>
+</edge>
+<edge source="Gregor-Clegane" target="Marq-Piper">
+  <data key="d1">6</data>
+</edge>
+<edge source="Loras-Tyrell" target="Mace-Tyrell">
+  <data key="d1">3</data>
+</edge>
+<edge source="Hodor" target="Nan">
+  <data key="d1">8</data>
+</edge>
+<edge source="Rickard-Karstark" target="Galbart-Glover">
+  <data key="d1">4</data>
+</edge>
+<edge source="Rickard-Karstark" target="Jon-Umber-(Greatjon)">
+  <data key="d1">7</data>
+</edge>
+<edge source="Rickard-Karstark" target="Maege-Mormont">
+  <data key="d1">3</data>
+</edge>
+<edge source="Rickard-Karstark" target="Roose-Bolton">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bronn" target="Chiggen">
+  <data key="d1">8</data>
+</edge>
+<edge source="Bronn" target="Marillion">
+  <data key="d1">4</data>
+</edge>
+<edge source="Bronn" target="Shae">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bronn" target="Shagga">
+  <data key="d1">3</data>
+</edge>
+<edge source="Bronn" target="Vardis-Egen">
+  <data key="d1">11</data>
+</edge>
+<edge source="Bronn" target="Willis-Wode">
+  <data key="d1">5</data>
+</edge>
+<edge source="Chiggen" target="Willis-Wode">
+  <data key="d1">3</data>
+</edge>
+<edge source="Marillion" target="Willis-Wode">
+  <data key="d1">4</data>
+</edge>
+<edge source="Shagga" target="Conn">
+  <data key="d1">9</data>
+</edge>
+<edge source="Shagga" target="Dolf">
+  <data key="d1">7</data>
+</edge>
+<edge source="Shagga" target="Timett">
+  <data key="d1">4</data>
+</edge>
+<edge source="Shagga" target="Ulf-son-of-Umar">
+  <data key="d1">4</data>
+</edge>
+<edge source="Vardis-Egen" target="Colemon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Vardis-Egen" target="Eon-Hunter">
+  <data key="d1">3</data>
+</edge>
+<edge source="Vardis-Egen" target="Lysa-Arryn">
+  <data key="d1">5</data>
+</edge>
+<edge source="Brynden-Tully" target="Edmure-Tully">
+  <data key="d1">3</data>
+</edge>
+<edge source="Brynden-Tully" target="Hoster-Tully">
+  <data key="d1">5</data>
+</edge>
+<edge source="Brynden-Tully" target="Lysa-Arryn">
+  <data key="d1">10</data>
+</edge>
+<edge source="Brynden-Tully" target="Nestor-Royce">
+  <data key="d1">3</data>
+</edge>
+<edge source="Brynden-Tully" target="Walder-Frey">
+  <data key="d1">3</data>
+</edge>
+<edge source="Edmure-Tully" target="Hoster-Tully">
+  <data key="d1">7</data>
+</edge>
+<edge source="Edmure-Tully" target="Karyl-Vance">
+  <data key="d1">4</data>
+</edge>
+<edge source="Edmure-Tully" target="Lysa-Arryn">
+  <data key="d1">5</data>
+</edge>
+<edge source="Edmure-Tully" target="Marq-Piper">
+  <data key="d1">3</data>
+</edge>
+<edge source="Edmure-Tully" target="Tytos-Blackwood">
+  <data key="d1">3</data>
+</edge>
+<edge source="Hoster-Tully" target="Lysa-Arryn">
+  <data key="d1">3</data>
+</edge>
+<edge source="Lysa-Arryn" target="Eon-Hunter">
+  <data key="d1">3</data>
+</edge>
+<edge source="Lysa-Arryn" target="Lyn-Corbray">
+  <data key="d1">3</data>
+</edge>
+<edge source="Lysa-Arryn" target="Robert-Arryn">
+  <data key="d1">8</data>
+</edge>
+<edge source="Lysa-Arryn" target="Stannis-Baratheon">
+  <data key="d1">4</data>
+</edge>
+<edge source="Walder-Frey" target="Danwell-Frey">
+  <data key="d1">3</data>
+</edge>
+<edge source="Walder-Frey" target="Stevron-Frey">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jon-Umber-(Greatjon)" target="Galbart-Glover">
+  <data key="d1">4</data>
+</edge>
+<edge source="Jon-Umber-(Greatjon)" target="Maege-Mormont">
+  <data key="d1">5</data>
+</edge>
+<edge source="Jon-Umber-(Greatjon)" target="Roose-Bolton">
+  <data key="d1">3</data>
+</edge>
+<edge source="Tytos-Blackwood" target="Jonos-Bracken">
+  <data key="d1">3</data>
+</edge>
+<edge source="Clement-Piper" target="Karyl-Vance">
+  <data key="d1">4</data>
+</edge>
+<edge source="Karyl-Vance" target="Marq-Piper">
+  <data key="d1">3</data>
+</edge>
+<edge source="Cohollo" target="Haggo">
+  <data key="d1">7</data>
+</edge>
+<edge source="Cohollo" target="Qotho">
+  <data key="d1">6</data>
+</edge>
+<edge source="Haggo" target="Mirri-Maz-Duur">
+  <data key="d1">3</data>
+</edge>
+<edge source="Haggo" target="Qotho">
+  <data key="d1">11</data>
+</edge>
+<edge source="Qotho" target="Mirri-Maz-Duur">
+  <data key="d1">9</data>
+</edge>
+<edge source="Conn" target="Coratt">
+  <data key="d1">5</data>
+</edge>
+<edge source="Doreah" target="Irri">
+  <data key="d1">14</data>
+</edge>
+<edge source="Doreah" target="Jhiqui">
+  <data key="d1">11</data>
+</edge>
+<edge source="Doreah" target="Viserys-Targaryen">
+  <data key="d1">3</data>
+</edge>
+<edge source="Illyrio-Mopatis" target="Irri">
+  <data key="d1">3</data>
+</edge>
+<edge source="Illyrio-Mopatis" target="Viserys-Targaryen">
+  <data key="d1">14</data>
+</edge>
+<edge source="Irri" target="Jhiqui">
+  <data key="d1">14</data>
+</edge>
+<edge source="Irri" target="Viserys-Targaryen">
+  <data key="d1">5</data>
+</edge>
+<edge source="Rhaegar-Targaryen" target="Viserys-Targaryen">
+  <data key="d1">5</data>
+</edge>
+<edge source="Danwell-Frey" target="Hosteen-Frey">
+  <data key="d1">3</data>
+</edge>
+<edge source="Danwell-Frey" target="Jared-Frey">
+  <data key="d1">3</data>
+</edge>
+<edge source="Hosteen-Frey" target="Jared-Frey">
+  <data key="d1">3</data>
+</edge>
+<edge source="Daryn-Hornwood" target="Torrhen-Karstark">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jommo" target="Ogo">
+  <data key="d1">3</data>
+</edge>
+<edge source="Ogo" target="Fogo">
+  <data key="d1">4</data>
+</edge>
+<edge source="Galbart-Glover" target="Roose-Bolton">
+  <data key="d1">3</data>
+</edge>
+<edge source="Wyl-(guard)" target="Heward">
+  <data key="d1">3</data>
+</edge>
+<edge source="Gared" target="Will-(prologue)">
+  <data key="d1">12</data>
+</edge>
+<edge source="Jyck" target="Morrec">
+  <data key="d1">5</data>
+</edge>
+<edge source="Mace-Tyrell" target="Paxter-Redwyne">
+  <data key="d1">3</data>
+</edge>
+</graph></graphml>
